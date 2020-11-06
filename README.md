@@ -17,7 +17,7 @@ There's a number of terms i'll be using throughout this guide - I'll outline a f
 ## My System Specs:
 ```
 - GIGABYTE GA-Z87X-D3H Motherboard
-- Intel Core i7-4790K Haswell 3.5GHz
+- Intel Core i7-4790K Haswell 4.0GHz
 - Sapphire Radeon RX 570
 - 16GB 1600mhz DDR3 memory
 - Corsair VS450 Power Supply
