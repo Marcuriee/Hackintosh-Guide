@@ -2,7 +2,7 @@
 
 ## Summary
 
-This guide was something I put together as I was trying to build a fully functional hackintosh for Programming. I am primarily a Windows user, and my 2013 Dell Laptop was beginning to show its age so I thought it was time to upgrade to an iMac until I was horrified when I found the prices I would be forced to pay. After a lot of searching I managed to have a good understanding of how Hackintoshes (and macOS) works and started writing my thoughts and ideas down. 
+This guide was something I put together as I was trying to build a fully functional hackintosh for Programming. I am primarily a Windows user and I thought of upgrading to an iMac until I was horrified when I found the prices I would be forced to pay. After a lot of searching I managed to have a good understanding of how Hackintoshes (and macOS) works and started writing my thoughts and ideas down. After a lot of time (close to a month of tinkering) I managed to complete this project with a fully functional Hackintosh that cuts through 4K footage like butter. Quite literally everything is working perfectly. 
 
 ### Quick Terms
 
@@ -17,9 +17,9 @@ There's a number of terms i'll be using throughout this guide - I'll outline a f
 ## My System Specs:
 ```
 - GIGABYTE GA-Z87X-D3H Motherboard
-- Intel Core i7-4770K Haswell 3.5GHz
-- Sapphire Radeon RX 480 4Gb
-- 8GB 1600mhz DDR3 memory
+- Intel Core i7-4790K Haswell 3.5GHz
+- Sapphire Radeon RX 570
+- 16GB 1600mhz DDR3 memory
 - Corsair VS450 Power Supply
 - 120 SSD and 1TB HD
 ```
